@@ -5,4 +5,4 @@ for page_idx in count():
         break
 
     print(page_idx)
-print('finished') 
+print('finished')
