@@ -22,6 +22,6 @@ myframe.index.name='i1'
 print(myframe.index)
 
 print(type(myframe.values))
-print(myframe.values)
+print(myframe.values) 
  
   
